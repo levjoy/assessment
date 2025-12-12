@@ -1,3 +1,3 @@
-# K'lal Tech digital security diagnostic tool
+# Groundwire digital security diagnostic tool
 
-Created and used by K'lal Tech
+Created and used by Groundwire Advisors
